@@ -1,9 +1,9 @@
 {
-  "name": "evobot",
+  "name": "Netflix Rewards",
   "version": "0.10.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Rabbit <tworabbit20@gmail.com>",
   "private": true,
   "homepage": "https://github.com/eritislami/evobot",
   "repository": "github:eritislami/evobot",
